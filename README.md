@@ -1,6 +1,6 @@
 # Learning-JavaScript
 <details>
-  <summary>  > Operators
+  <summary> Operators
   - arithmatic operator
   - unary operator
   - assignment operator
