@@ -1,2 +1,2 @@
-# JavaScript
-Learning javascript... 
+# Learning-JavaScript
+> Operators
