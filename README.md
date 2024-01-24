@@ -1,11 +1,11 @@
 # Learning-JavaScript
 <details>
-  <summary> Operators
+  <summary> Operators </summary>
     <br>
-   Arithmatic operator
-   Unary operator
-   Assignment operator
-   Logical operator
-   Comparison operator
-</summary>
+  - Arithmatic operator
+  - Unary operator
+  - Assignment operator
+  - Logical operator
+  - Comparison operator
+
 </details>
