@@ -1,7 +1,10 @@
 # Learning-JavaScript
-> Operators
+<details>
+  <summary>  > Operators
   - arithmatic operator
   - unary operator
   - assignment operator
   - logical operator
   - comparison operator
+</summary>
+</details>
