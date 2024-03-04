@@ -96,7 +96,7 @@
 //     name: "user21",
 //     age: 21,
 //     branch: "CSE",
-//     cgpa:8.5,
+//     cgpa:8 5,
 // }
 // for (let i in student) {
 //     console.log("i =", i);
@@ -110,7 +110,7 @@
 // let Movie = {
 //     title : "MovieTilte",
 //     category: "horror",
-//     rating: 8.2,
+//     rating: 8 2,
 //     relesedYear: 2013,
 // }
 // for (let key in  Movie) {
